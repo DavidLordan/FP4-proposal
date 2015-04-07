@@ -60,11 +60,14 @@ be echoing whatever key is pressed in the interpreter, again, to make sure that 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
-### Susan Scheme
-will write the....
+### David Lordan
+...
 
-### Leonard Lambda
-will work on...
+### Kevin Ornellas
+...
+
+### Steven Scheffelaar Klots
+Work on a portion of the UI for the first milestone and then shift focus to working on implementing and interfacing with the Rsound portion of the project.
 
 ## Proposal Presentation Link
 insert your google presentation public link here, so with one click it will open up in the browser and you can present.
